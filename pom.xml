@@ -64,13 +64,13 @@
 			<artifactId>mysql-connector-java</artifactId>
 			<version>5.1.32</version>
 		</dependency>
-		<!-- 杩炴帴姹� -->
+		<!-- 连接池 -->
 		<dependency>
 			<groupId>com.alibaba</groupId>
 			<artifactId>druid</artifactId>
 			<version>1.0.9</version>
 		</dependency>
-		<!-- JSP鐩稿叧 -->
+		<!-- JSP相关 -->
 		<dependency>
 			<groupId>jstl</groupId>
 			<artifactId>jstl</artifactId>
@@ -133,7 +133,7 @@
 				</configuration>
 			</plugin>
 
-			<!-- 閰嶇疆Tomcat鎻掍欢 -->
+			<!-- 配置Tomcat插件 -->
 			<plugin>
 				<groupId>org.apache.tomcat.maven</groupId>
 				<artifactId>tomcat7-maven-plugin</artifactId>
