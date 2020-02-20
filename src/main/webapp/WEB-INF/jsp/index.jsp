@@ -16,7 +16,7 @@
 <!-- BEGIN SHORTCUT ICON -->
 <link rel="shortcut icon" href="/img/favicon.ico">
 <!-- END SHORTCUT ICON -->
-<title>娴侀噺杩愯惀鍒嗘瀽 - pinyougou庐itcast鍏ㄧ珯鏁版嵁骞冲彴</title>
+<title>流量运营分析 - pinyougou®itcast全站数据平台</title>
 <!-- BEGIN STYLESHEET-->
 <link href="/css/bootstrap.min.css" rel="stylesheet">
 <!-- BOOTSTRAP CSS -->
@@ -53,7 +53,7 @@
 			</div>
 			<!-- SIDEBAR TOGGLE BUTTON  END-->
 			<a href="index.html" class="logo"> ITCAST <span> PINYOUGOU
-			</span><span> 鍏ㄧ珯娴侀噺杩愯惀鍒嗘瀽 </span>
+			</span><span> 全站流量运营分析 </span>
 			</a>
 			<!-- START HEADER  NAV -->
 
@@ -262,51 +262,51 @@
 			<div id="sidebar" class="nav-collapse">
 				<ul class="sidebar-menu" id="nav-accordion">
 					<li><a href="index.html" class="active"> <i
-							class="fa fa-dashboard"> </i> <span> 娴侀噺姒傚喌 </span>
+							class="fa fa-dashboard"> </i> <span> 流量概况 </span>
 					</a></li>
 
 
 					<li class="sub-menu"><a href="javascript:;"> <i
-							class="fa fa-book"> </i> <span> 娴侀噺鍒嗘瀽 </span>
+							class="fa fa-book"> </i> <span> 流量分析 </span>
 					</a>
 						<ul class="sub">
-							<li><a href="flow-trend.html"> 瓒嬪娍鍒嗘瀽 </a></li>
-							<li><a href="flow-contract.html"> 瀵规瘮鍒嗘瀽 </a></li>
-							<li><a href="flow-online.html"> 褰撳墠鍦ㄧ嚎 </a></li>
-							<li><a href="flow-detail.html"> 璁块棶鏄庣粏 </a></li>
+							<li><a href="flow-trend.html"> 趋势分析 </a></li>
+							<li><a href="flow-contract.html"> 对比分析 </a></li>
+							<li><a href="flow-online.html"> 当前在线 </a></li>
+							<li><a href="flow-detail.html"> 访问明细 </a></li>
 						</ul></li>
 
 					<li class="sub-menu"><a href="javascript:;"> <i
-							class="fa fa-th"> </i> <span> 鏉ユ簮鍒嗘瀽 </span>
+							class="fa fa-th"> </i> <span> 来源分析 </span>
 					</a>
 						<ul class="sub">
-							<li><a href="#"> 鏉ユ簮鍒嗙被 </a></li>
-							<li><a href="#"> 鎼滅储寮曟搸 </a></li>
-							<li><a href="#"> 鎼滅储璇� </a></li>
-							<li><a href="#"> 鏉ヨ矾鍩熷悕 </a></li>
-							<li><a href="#"> 鏉ヨ矾椤甸潰 </a></li>
+							<li><a href="#"> 来源分类 </a></li>
+							<li><a href="#"> 搜索引擎 </a></li>
+							<li><a href="#"> 搜索词 </a></li>
+							<li><a href="#"> 来路域名 </a></li>
+							<li><a href="#"> 来路页面 </a></li>
 						</ul></li>
 
 					<li class="sub-menu"><a href="javascript:;"> <i
-							class="fa fa-book"> </i> <span> 鍙楄鍒嗘瀽 </span>
+							class="fa fa-book"> </i> <span> 受访分析 </span>
 					</a>
 						<ul class="sub">
-							<li><a href="#"> 鍙楄鍒嗘瀽 </a></li>
-							<li><a href="#"> 鍙楄鍩熷悕 </a></li>
-							<li><a href="#"> 鍙楄椤甸潰 </a></li>
-							<li><a href="#"> 鍙楄鍗囬檷姒� </a></li>
-							<li><a href="#"> 鐑偣鍥� </a></li>
+							<li><a href="#"> 受访分析 </a></li>
+							<li><a href="#"> 受访域名 </a></li>
+							<li><a href="#"> 受访页面 </a></li>
+							<li><a href="#"> 受访升降榜 </a></li>
+							<li><a href="#"> 热点图 </a></li>
 						</ul></li>
 
 					<li class="sub-menu"><a href="javascript:;"> <i
-							class="fa fa-th"> </i> <span> 璁垮鍒嗘瀽 </span>
+							class="fa fa-th"> </i> <span> 访客分析 </span>
 					</a>
 						<ul class="sub">
-							<li><a href="basic_table.html"> 鍦板尯/杩愯惀鍟� </a></li>
-							<li><a href="responsive_table.html">缁堢璇︽儏 </a></li>
-							<li><a href="dynamic_table.html"> 鏂拌�佽瀹�</a></li>
-							<li><a href="advanced_table.html"> 蹇犺瘹搴� </a></li>
-							<li><a href="editable_table.html"> 娲昏穬搴� </a></li>
+							<li><a href="basic_table.html"> 地区/运营商 </a></li>
+							<li><a href="responsive_table.html">终端详情 </a></li>
+							<li><a href="dynamic_table.html"> 新老访客</a></li>
+							<li><a href="advanced_table.html"> 忠诚度 </a></li>
+							<li><a href="editable_table.html"> 活跃度 </a></li>
 						</ul></li>
 				</ul>
 			</div>
@@ -319,25 +319,25 @@
 			<!-- BEGIN WRAPPER  -->
 			<section class="wrapper">
 
-				<!-- 娴侀噺姒傚喌琛� 寮�濮� -->
+				<!-- 流量概况表 开始 -->
 				<div class="row">
 					<div class="col-lg-12 col-sm-12">
 						<section class="panel">
 							<div class="panel-body">
-								<!-- 涓篍Charts鍑嗗涓�涓叿澶囧ぇ灏忥紙瀹介珮锛夌殑Dom -->
+								<!-- 为ECharts准备一个具备大小（宽高）的Dom -->
 								<div>
-									<span><h3>娴侀噺淇℃伅姒傚喌</h3></span>
+									<span><h3>流量信息概况</h3></span>
 								</div>
 								<div id="trendtable" style="width: 90%;">
 									<table id='pv_table' class="table table-bordered" margin=auto>
 										<thead style='font-weight: bold'>
 											<tr>
-												<td>鏃ユ湡</td>
-												<td>娴忚娆℃暟锛圥V锛�</td>
-												<td>鐙珛璁垮(UV)</td>
+												<td>日期</td>
+												<td>浏览次数（PV）</td>
+												<td>独立访客(UV)</td>
 												<td>IP</td>
-												<td>鏂扮嫭绔嬭瀹�</td>
-												<td>璁块棶娆℃暟</td>
+												<td>新独立访客</td>
+												<td>访问次数</td>
 											</tr>
 										</thead>
 										<tbody>
@@ -372,10 +372,10 @@
 						</section>
 					</div>
 				</div>
-				<!-- 娴侀噺姒傚喌琛� 缁撴潫-->
+				<!-- 流量概况表 结束-->
 
 
-				<!-- BEGIN ROW  鏈�杩�7澶╂棩骞冲潎PV閲�-->
+				<!-- BEGIN ROW  最近7天日平均PV量-->
 				<div class="row">
 					<div class="col-lg-6 col-sm-6">
 						<section class="panel">
@@ -388,43 +388,43 @@
 														var myChart = echarts
 																.init(document
 																		.getElementById('main1'));
-														// 鏄剧ず鏍囬锛屽浘渚嬪拰绌虹殑鍧愭爣杞�
+														// 显示标题，图例和空的坐标轴
 														myChart
 																.setOption({
 																	title : {
-																		text : '鏈�杩�7澶╂棩骞冲潎PV閲�',
-																		subtext : '鍔ㄦ�佹暟鎹�'
+																		text : '最近7天日平均PV量',
+																		subtext : '动态数据'
 																	},
 																	tooltip : {},
 																	legend : {
-																		data : [ '鏃ュ钩鍧嘝V閲�' ]
+																		data : [ '日平均PV量' ]
 																	},
 																	xAxis : {
 																		data : []
 																	},
 																	yAxis : {},
 																	series : [ {
-																		name : '鏃ュ钩鍧嘝V閲�',
+																		name : '日平均PV量',
 																		type : 'bar',
 																		data : []
 																	} ]
 																});
-														//loading 鍔ㄧ敾
+														//loading 动画
 														myChart.showLoading();
-														// 寮傛鍔犺浇鏁版嵁
+														// 异步加载数据
 														$.get('http://localhost:8080/avgPvNum').done(function(data) {
-															//濉叆鏁版嵁
+															//填入数据
 															myChart.setOption({
 																xAxis : {
 																							data : data.dates
 																						},
 																						series : [ {
-																							// 鏍规嵁鍚嶅瓧瀵瑰簲鍒扮浉搴旂殑绯诲垪
-																							name : 'PV閲�',
+																							// 根据名字对应到相应的系列
+																							name : 'PV量',
 																							data : data.data
 																						} ]
 																					});
-																			//鏁版嵁鍔犺浇瀹屾垚鍚庡啀璋冪敤 hideLoading 鏂规硶闅愯棌鍔犺浇鍔ㄧ敾
+																			//数据加载完成后再调用 hideLoading 方法隐藏加载动画
 																			myChart.hideLoading();
 																		});
 													});
@@ -440,42 +440,42 @@
 								<div id="main2" style="width: 600px; height: 400px;"
 									align="center"></div>
 								<script type="text/javascript">
-									// 鍩轰簬鍑嗗濂界殑dom锛屽垵濮嬪寲echarts瀹炰緥
+									// 基于准备好的dom，初始化echarts实例
 									var myChart = echarts.init(document
 											.getElementById('main2'));
 
 									myChart
 											.setOption({
 												series : [ {
-													name : '璁块棶鏉ユ簮',
+													name : '访问来源',
 													type : 'pie',
 													radius : '55%',
 													data : [ {
 														value : 235,
-														name : '瑙嗛骞垮憡'
+														name : '视频广告'
 													}, {
 														value : 274,
-														name : '鑱旂洘骞垮憡'
+														name : '联盟广告'
 													}, {
 														value : 310,
-														name : '閭欢钀ラ攢'
+														name : '邮件营销'
 													}, {
 														value : 335,
-														name : '鐩存帴璁块棶'
+														name : '直接访问'
 													}, {
 														value : 400,
-														name : '鎼滅储寮曟搸'
+														name : '搜索引擎'
 													} ]
 												} ],
 												itemStyle : {
 													normal : {
-														// 闃村奖鐨勫ぇ灏�
+														// 阴影的大小
 														shadowBlur : 200,
-														// 闃村奖姘村钩鏂瑰悜涓婄殑鍋忕Щ
+														// 阴影水平方向上的偏移
 														shadowOffsetX : 0,
-														// 闃村奖鍨傜洿鏂瑰悜涓婄殑鍋忕Щ
+														// 阴影垂直方向上的偏移
 														shadowOffsetY : 0,
-														// 闃村奖棰滆壊
+														// 阴影颜色
 														shadowColor : 'rgba(0, 0, 0, 0.5)'
 													}
 												}
@@ -488,20 +488,20 @@
 				</div>
 				<!-- END ROW  -->
 
-				<!-- 鎶樼嚎鍥� row 寮�濮� -->
+				<!-- 折线图 row 开始 -->
 				<div class="row">
 					<div class="col-lg-12 col-sm-12">
 						<section class="panel">
 							<div class="panel-body">
 								<div id="main3" style="width: 100%; height: 500px;"></div>
 								<script type="text/javascript">
-									// 鍩轰簬鍑嗗濂界殑dom锛屽垵濮嬪寲echarts瀹炰緥
+									// 基于准备好的dom，初始化echarts实例
 									var myChart3 = echarts.init(document
 											.getElementById('main3'));
 									option = {
 										title : {
-											text : '璁垮鏉ユ簮鍦板尯鍒嗗竷鍥�',
-											subtext : '妯℃嫙鏁版嵁',
+											text : '访客来源地区分布图',
+											subtext : '模拟数据',
 											x : 'center'
 										},
 										tooltip : {
@@ -510,14 +510,14 @@
 										legend : {
 											orient : 'vertical',
 											x : 'left',
-											data : [ '璁垮UV' ]
+											data : [ '访客UV' ]
 										},
 										dataRange : {
 											min : 0,
 											max : 2500,
 											x : 'left',
 											y : 'bottom',
-											text : [ '楂�', '浣�' ], // 鏂囨湰锛岄粯璁や负鏁板�兼枃鏈�
+											text : [ '高', '低' ], // 文本，默认为数值文本
 											calculable : true
 										},
 										toolbox : {
@@ -550,7 +550,7 @@
 										},
 										series : [
 												{
-													name : '璁垮UV',
+													name : '访客UV',
 													type : 'map',
 													mapType : 'china',
 													roam : false,
@@ -568,205 +568,205 @@
 													},
 													data : [
 															{
-																name : '鍖椾含',
+																name : '北京',
 																value : Math
 																		.round(Math
 																				.random() * 1000)
 															},
 															{
-																name : '澶╂触',
+																name : '天津',
 																value : Math
 																		.round(Math
 																				.random() * 1000)
 															},
 															{
-																name : '涓婃捣',
+																name : '上海',
 																value : Math
 																		.round(Math
 																				.random() * 1000)
 															},
 															{
-																name : '閲嶅簡',
+																name : '重庆',
 																value : Math
 																		.round(Math
 																				.random() * 1000)
 															},
 															{
-																name : '娌冲寳',
+																name : '河北',
 																value : Math
 																		.round(Math
 																				.random() * 1000)
 															},
 															{
-																name : '娌冲崡',
+																name : '河南',
 																value : Math
 																		.round(Math
 																				.random() * 1000)
 															},
 															{
-																name : '浜戝崡',
+																name : '云南',
 																value : Math
 																		.round(Math
 																				.random() * 1000)
 															},
 															{
-																name : '杈藉畞',
+																name : '辽宁',
 																value : Math
 																		.round(Math
 																				.random() * 1000)
 															},
 															{
-																name : '榛戦緳姹�',
+																name : '黑龙江',
 																value : Math
 																		.round(Math
 																				.random() * 1000)
 															},
 															{
-																name : '婀栧崡',
+																name : '湖南',
 																value : Math
 																		.round(Math
 																				.random() * 1000)
 															},
 															{
-																name : '瀹夊窘',
+																name : '安徽',
 																value : Math
 																		.round(Math
 																				.random() * 1000)
 															},
 															{
-																name : '灞变笢',
+																name : '山东',
 																value : Math
 																		.round(Math
 																				.random() * 1000)
 															},
 															{
-																name : '鏂扮枂',
+																name : '新疆',
 																value : Math
 																		.round(Math
 																				.random() * 1000)
 															},
 															{
-																name : '姹熻嫃',
+																name : '江苏',
 																value : Math
 																		.round(Math
 																				.random() * 1000)
 															},
 															{
-																name : '娴欐睙',
+																name : '浙江',
 																value : Math
 																		.round(Math
 																				.random() * 1000)
 															},
 															{
-																name : '姹熻タ',
+																name : '江西',
 																value : Math
 																		.round(Math
 																				.random() * 1000)
 															},
 															{
-																name : '婀栧寳',
+																name : '湖北',
 																value : Math
 																		.round(Math
 																				.random() * 1000)
 															},
 															{
-																name : '骞胯タ',
+																name : '广西',
 																value : Math
 																		.round(Math
 																				.random() * 1000)
 															},
 															{
-																name : '鐢樿們',
+																name : '甘肃',
 																value : Math
 																		.round(Math
 																				.random() * 1000)
 															},
 															{
-																name : '灞辫タ',
+																name : '山西',
 																value : Math
 																		.round(Math
 																				.random() * 1000)
 															},
 															{
-																name : '鍐呰挋鍙�',
+																name : '内蒙古',
 																value : Math
 																		.round(Math
 																				.random() * 1000)
 															},
 															{
-																name : '闄曡タ',
+																name : '陕西',
 																value : Math
 																		.round(Math
 																				.random() * 1000)
 															},
 															{
-																name : '鍚夋灄',
+																name : '吉林',
 																value : Math
 																		.round(Math
 																				.random() * 1000)
 															},
 															{
-																name : '绂忓缓',
+																name : '福建',
 																value : Math
 																		.round(Math
 																				.random() * 1000)
 															},
 															{
-																name : '璐靛窞',
+																name : '贵州',
 																value : Math
 																		.round(Math
 																				.random() * 1000)
 															},
 															{
-																name : '骞夸笢',
+																name : '广东',
 																value : Math
 																		.round(Math
 																				.random() * 1000)
 															},
 															{
-																name : '闈掓捣',
+																name : '青海',
 																value : Math
 																		.round(Math
 																				.random() * 1000)
 															},
 															{
-																name : '瑗胯棌',
+																name : '西藏',
 																value : Math
 																		.round(Math
 																				.random() * 1000)
 															},
 															{
-																name : '鍥涘窛',
+																name : '四川',
 																value : Math
 																		.round(Math
 																				.random() * 1000)
 															},
 															{
-																name : '瀹佸',
+																name : '宁夏',
 																value : Math
 																		.round(Math
 																				.random() * 1000)
 															},
 															{
-																name : '娴峰崡',
+																name : '海南',
 																value : Math
 																		.round(Math
 																				.random() * 1000)
 															},
 															{
-																name : '鍙版咕',
+																name : '台湾',
 																value : Math
 																		.round(Math
 																				.random() * 1000)
 															},
 															{
-																name : '棣欐腐',
+																name : '香港',
 																value : Math
 																		.round(Math
 																				.random() * 1000)
 															},
 															{
-																name : '婢抽棬',
+																name : '澳门',
 																value : Math
 																		.round(Math
 																				.random() * 1000)
@@ -784,29 +784,29 @@
 				</div>
 
 
-				<!-- 鎶樼嚎鍥� row 缁撴潫 -->
-				<!-- 鍔ㄦ�佸姞杞芥暟鎹ず渚� 寮�濮�-->
+				<!-- 折线图 row 结束 -->
+				<!-- 动态加载数据示例 开始-->
 				<div class="row">
 					<div class="col-lg-12 col-sm-12">
 						<section class="panel">
 							<div class="panel-body">
 								<div id="main4" style="width: 100%; height: 400px;"></div>
 								<script type="text/javascript">
-									// 鍩轰簬鍑嗗濂界殑dom锛屽垵濮嬪寲echarts瀹炰緥
+									// 基于准备好的dom，初始化echarts实例
 									var myChart4 = echarts.init(document
 											.getElementById('main4'));
 
-									// 鎸囧畾鍥捐〃鐨勯厤缃」鍜屾暟鎹�
+									// 指定图表的配置项和数据
 									option = {
 										title : {
-											text : '杩戜竴鍛ㄨ瀹㈡暟閲忓彉鍖栬秼鍔�',
-											subtext : '鍔ㄦ�佹暟鎹�'
+											text : '近一周访客数量变化趋势',
+											subtext : '动态数据'
 										},
 										tooltip : {
 											trigger : 'axis'
 										},
 										legend : {
-											data : [ '鐙珛璁垮', '鏂扮嫭绔嬭瀹�' ]
+											data : [ '独立访客', '新独立访客' ]
 										},
 										toolbox : {
 											show : true,
@@ -839,66 +839,66 @@
 										yAxis : [ {
 											type : 'value',
 											axisLabel : {
-												formatter : '{value} 浜�'
+												formatter : '{value} 人'
 											}
 										} ],
 										series : [ {
-											name : '鐙珛璁垮',
+											name : '独立访客',
 											type : 'line',
 											data : [],
 											markPoint : {
 												data : [ {
 													type : 'max',
-													name : '鏈�澶у��'
+													name : '最大值'
 												}, {
 													type : 'min',
-													name : '鏈�灏忓��'
+													name : '最小值'
 												} ]
 											},
 											markLine : {
 												data : [ {
 													type : 'average',
-													name : '骞冲潎鍊�'
+													name : '平均值'
 												} ]
 											}
 										}, {
-											name : '鏂扮嫭绔嬭瀹�',
+											name : '新独立访客',
 											type : 'line',
 											data : [],
 											markPoint : {
 												data : [ {
 													type : 'max',
-													name : '鏈�澶у��'
+													name : '最大值'
 												}, {
 													type : 'min',
-													name : '鏈�灏忓��'
+													name : '最小值'
 												} ]
 											},
 											markLine : {
 												data : [ {
 													type : 'average',
-													name : '骞冲潎鍊�'
+													name : '平均值'
 												} ]
 											}
 										} ]
 									};
 
-									// 浣跨敤鍒氭寚瀹氱殑閰嶇疆椤瑰拰鏁版嵁鏄剧ず鍥捐〃銆�
+									// 使用刚指定的配置项和数据显示图表。
 									myChart4.setOption(option);
 									myChart4.showLoading();
-									// 寮傛鍔犺浇鏁版嵁
+									// 异步加载数据
 									$.get('http://localhost:8080/flowNum')
 											.done(function(data) {
-												// 濉叆鏁版嵁
+												// 填入数据
 												myChart4.setOption({
 													xAxis : {
 														data : data.dates
 													},
 													series : [ {
-														name : '鐙珛璁垮',
+														name : '独立访客',
 														data : data.uvs
 													}, {
-														name : '鏂扮嫭绔嬭瀹�',
+														name : '新独立访客',
 														data : data.new_uvs
 													} ]
 												});
@@ -909,7 +909,7 @@
 						</section>
 					</div>
 				</div>
-				<!-- 鍔ㄦ�佸姞杞芥暟鎹ず渚� 缁撴潫-->
+				<!-- 动态加载数据示例 结束-->
 
 
 				<!-- BEGIN ROW  -->
@@ -1021,3 +1021,5 @@
 	<!-- END JS -->
 </body>
 </html>
+
+

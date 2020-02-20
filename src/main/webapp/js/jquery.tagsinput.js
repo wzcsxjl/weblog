@@ -262,7 +262,7 @@
                 $(data.fake_input).blur();
                 if (data.unique) {
                     $(data.fake_input).keydown(function (event) {
-                        if (event.keyCode == 8 || String.fromCharCode(event.which).match(/\w+|[谩茅铆贸煤脕脡脥脫脷帽脩,/]+/)) {
+                        if (event.keyCode == 8 || String.fromCharCode(event.which).match(/\w+|[áéíóúÁÉÍÓÚñÑ,/]+/)) {
                             $(this).removeClass('not_valid');
                         }
                     });

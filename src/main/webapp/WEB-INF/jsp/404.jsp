@@ -34,9 +34,11 @@
          <section class="error-wrapper">
             <h1>404</h1>
             <h2>page not found</h2>
-            <p class="page-404">Something went wrong or that page doesn鈥檛 exist yet. <a href="index.html">Return Home</a></p>
+            <p class="page-404">Something went wrong or that page doesn’t exist yet. <a href="index.html">Return Home</a></p>
          </section>
 		 <!-- END MAIN CONTENT --> 
       </div>
    </body>
 </html>
+
+
